@@ -28,7 +28,7 @@ Here are some of the key technologies I currently use or have worked with in the
 **Databases**
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=sql,mongodb,elasticsearch" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,elasticsearch" />
 </p>
 
 
