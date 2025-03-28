@@ -1,47 +1,52 @@
+## 👋 Hi, I'm Anand Venugopalan  
 
-<h1>👋 Hi, I'm Anand Venugopalan</h1>
+I'm a **Frontend Developer** at [financial.com](https://financial.com/), specializing in building **UI frameworks, components, widgets, and Micro Frontends** for various projects. I also develop **APIs using Node.js and Python** and am currently exploring **DevOps**.  
 
-I'm a **Frontend Developer** working at [financial.com](https://financial.com/).I work on building UI frameworks, components, widgets, and Micro Frontends for different projects and help make them ready for users. I also develop APIs using Node.js and Python. Additionally, I am learning DevOps. I am open to collaborating on interesting frontend and backend development projects.
+I am open to collaborating on exciting **frontend and backend development projects**. 🚀  
 
-## Skill Set :man_technologist:
+---
 
-Here are some of the key technologies I currently use or have worked with in the past:
+## 🔹 Skill Set  
 
-**Programming Languages**
-
+### 🖥️ **Programming Languages**  
 <p align="left">
   <img src="https://skillicons.dev/icons?i=js,ts,python" />
-</p>
+</p>  
 
-**Libraries and Frameworks**
-
+### 🏗️ **Frontend Technologies**  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=angular,vue,react,flask,express" />
-</p>
+  <img src="https://skillicons.dev/icons?i=html,css,scss,angular,vue,react" />
+</p>  
 
-**Infrastructure**
+### ⚙️ **Backend & API Development**  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,flask" />
+</p>  
 
+### 🏗️ **Infrastructure & DevOps**  
 <p align="left">
   <img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,terraform,ansible" />
-</p>
+</p>  
 
-**Databases**
-
+### 🗄️ **Databases**  
 <p align="left">
   <img src="https://skillicons.dev/icons?i=mysql,mongodb,elasticsearch" />
-</p>
+</p>  
 
-
-**Tools**
-
+### 🛠️ **Tools & Version Control**  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=linux,git,linux" />
-</p>
+  <img src="https://skillicons.dev/icons?i=git,linux" />
+</p>  
 
-<br>
+### 📌 **Agile Methodologies & Collaboration**  
+- Experience working in **Scrum & Kanban** environments  
+- Skilled in using **JIRA, Confluence**, and other project management tools  
 
-## Let's Connect :handshake:
+---
 
-<a href="https://www.linkedin.com/in/anand-v-89330b16"><img src="https://skillicons.dev/icons?i=linkedin" /></a>|<a href="mailto:anandvg46@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
-|--|--|
+## 🤝 Let's Connect  
 
+<a href="https://www.linkedin.com/in/anand-v-89330b16"><img src="https://skillicons.dev/icons?i=linkedin" /></a>  
+<a href="mailto:anandvg46@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>  
+
+---
