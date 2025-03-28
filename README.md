@@ -25,7 +25,7 @@ I am open to collaborating on exciting **frontend and backend development projec
 
 ### 🏗️ **Infrastructure & DevOps**  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,terraform,ansible,github" />
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,terraform,ansible,githubactions" />
 </p>  
 
 ### 🗄️ **Databases**  
