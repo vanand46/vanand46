@@ -39,14 +39,18 @@ I am open to collaborating on exciting **frontend and backend development projec
 </p>  
 
 ### 📌 **Agile Methodologies & Collaboration**  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=jira,confluence" />
+</p>
 - Experience working in **Scrum & Kanban** environments  
 - Skilled in using **JIRA, Confluence**, and other project management tools  
 
 ---
 
 ## 🤝 Let's Connect  
-
-<a href="https://www.linkedin.com/in/anand-v-89330b16"><img src="https://skillicons.dev/icons?i=linkedin" /></a>  
-<a href="mailto:anandvg46@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>  
+<p align="left">
+  <a href="https://www.linkedin.com/in/anand-v-89330b16"><img src="https://skillicons.dev/icons?i=linkedin" /></a>  
+  <a href="mailto:anandvg46@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>  
+</p>
 
 ---
